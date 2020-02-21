@@ -1,0 +1,14 @@
+Statistical Analysis Findings 
+
+MPG Linear Regression Model 
+The linear regression model was plotted for each variable against the miles per gallon. The model shows that as ground clearence and vehicle length increase the miles per gallon also increases.
+While the model indicates that an increase in the size of the spoiler is the largest factor in reducing miles per gallon. Vechile weight shows a slight increase in fuel efficency as weight increases, but it is not statistically significant. A larger sample size will be needed to determine the corrilatoin of a vehicle's weight to it's fuel efficency.
+The model also shows that all wheel drive has no effect on the fuel efficency.
+The p-value is extremely small, which allows for full confidence in the accuracy of the predictions the model makes.
+
+Suspension Coil Summary 
+The results gave a mean and median that were almost equivalent. Allowing us to infer a normal distrubtion. 
+The varience is 62 pounds per inch, well under the 100 pounds per inch regulation. 
+
+Suspensoin Coil T-Test
+A one sample T-Test was used given that one sample of data was used in the analysis. The T-Test resulted in a p-value of less then 0.05, which is statistically significant. Meaning the null hypothesis, the differnce between our data and the mean population results, can be rejected.
